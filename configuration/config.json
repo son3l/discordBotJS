@@ -1,0 +1,12 @@
+{
+    "client_id": "1180819268254847016",
+    "version": "1.0.0",
+    "bot_author":{
+        "username":"Vlad"
+    },
+    "permissions":{
+    "sendMessage":"sendMessages",
+    "Admin":"Administrator",
+    "VoiceJoin": "Connect"
+    }
+}
